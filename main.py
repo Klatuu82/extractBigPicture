@@ -4,6 +4,9 @@ import scipy.misc as smp
 import pytube
 import os
 
+'''
+Cute the image in to 10000 line hight images insted of i big.
+'''
 def getVideo(url):
     # url = 'https://www.youtube.com/watch?v=4SFhwxzfXNc'
 
